@@ -53,10 +53,6 @@ heroku/python
 * Sʜᴏʀᴛɴᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/shortner_x_bot)
 
 ## Credits, and Thanks to
-
-* [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-* [@DC4_WARRIOR](https://t.me/Space_X_bots) it's me
+* [@DC4_WARRIOR](https://telegram.me/Clinton_Abraham) it's me
 #### LICENSE
 - GPLv3
