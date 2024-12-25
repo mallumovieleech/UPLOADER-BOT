@@ -1,6 +1,7 @@
 numpy
 yt-dlp
 Pillow
+pymongo
 hachoir
 olefile
 requests
