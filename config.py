@@ -27,6 +27,6 @@ class Config(object):
     OWNER_ID = int(os.environ.get("OWNER_ID", "561339410"))
     SESSION_NAME = "UPLOADER-X-BOT"
     # database uri (mongodb)
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://damon:damon@cluster0.dxbn6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://jamiedornankoyyodan:jamiedornankoyyodan@cluster0.ioz6q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     MAX_RESULTS = "50"
     PREMIUM_USER = os.environ.get("PREMIUM_USER", "BQFsDkoAkHUUZ0VYWv2zbVS03LrzePXg5U0mpwaIbXZQdXJhjHuDZVNz6X6SYVG1xpIYXm5SPyB8X5TZ45PpJdXEf3HEEhMyeXR5KneaWWQ6ZniX7DjSnE5YHkwR3V90sFC2OcWiuH3qDhr8pUSVkrJE6sGaDrhRZrCFpClPdhpJgpGRRntGwYSvFs4nBYsVb8oCu-avva6ff3-WKB4yV1jkmLHr5rt0QZ38K0sMkDtwbzrY4Dfg57XYWFMNsIp5guusWVKmPoos5FWI_jBQ5cjBLnH3Sa6GIrllxm8j2nS9YDCsINvr2IXLsvXmVZPmuV-4GEkYwO5fN5zC4FKIp-EhZxiJawAAAAHnBYTeAA")
