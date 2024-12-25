@@ -1,7 +1,6 @@
 numpy
 yt-dlp
 Pillow
-aiohttp
 hachoir
 olefile
 requests
@@ -11,3 +10,6 @@ dnspython
 motor[srv]
 beautifulsoup4
 pyrogram
+Flask
+gunicorn
+aiohttp
